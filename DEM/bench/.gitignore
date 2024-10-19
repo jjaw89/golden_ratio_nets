@@ -1,0 +1,6 @@
+data/*.txt
+outputs/
+times_dem*.csv
+times_dem*.pdf
+speedup_dem*.pdf
+.Rhistory

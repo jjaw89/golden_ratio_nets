@@ -1,0 +1,5 @@
+BasedOnStyle: Mozilla
+AlignAfterOpenBracket: BlockIndent
+BreakBeforeBraces: Attach
+AlwaysBreakAfterReturnType: None
+AlwaysBreakAfterDefinitionReturnType: None

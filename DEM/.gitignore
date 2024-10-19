@@ -1,0 +1,6 @@
+.direnv/
+.envrc
+build/
+.cache/
+compile_commands.json
+tests/data/*.txt
